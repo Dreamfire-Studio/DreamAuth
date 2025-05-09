@@ -1,0 +1,5 @@
+name: DreamAuth
+version: 1.0.0-SNAPSHOT
+main: com.dreamfirestudios.dreamauth.DreamAuth
+api-version: 1.21
+depend: [DreamCore, DreamConfig, DreamCommand]
